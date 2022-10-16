@@ -2,7 +2,7 @@
 Little experiments
 
 
-# Comparison between of read_parquet in pandas and polars
+# Comparison between read_parquet in pandas and polars
 polars: 17.23s
 pandas: 74.28s
 
